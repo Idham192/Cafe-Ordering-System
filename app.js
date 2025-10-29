@@ -1,5 +1,5 @@
 // ⚠️ REPLACE THIS WITH YOUR GOOGLE SCRIPT URL FROM STEP 1
-const GOOGLE_SCRIPT_URL = 'PASTE_YOUR_URL_HERE';
+const GOOGLE_SCRIPT_URL = 'https://script.google.com/macros/s/AKfycbzdxg5lNxliyKgm6ottMrcm3u7TDin7Yfc31wv_IsP6Zu5v1aQNZ7vBE1bDDiLkHQvRvQ/exec';
 
 const { useState } = React;
 const { ShoppingCart, Plus, Minus, Trash2, Coffee, X, Check, CreditCard, Wallet, Banknote, ChefHat } = lucide;
